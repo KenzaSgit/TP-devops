@@ -1,6 +1,5 @@
 def main():
-    print("Bonjour DevOps")
+    print("Page de login")
 
 if __name__ == "__main__":
     main()
-# test
