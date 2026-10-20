@@ -8,3 +8,5 @@ petiite application de demonstration realiser dans le cadre du tp EOF
 - Création et gestion du projet avec Git.
 - Suivi des modifications grâce aux commits.
 - Collaboration à travers des branches et des Pull Requests.
+Modification temporaire pour tester git stash.
+Test de git revert
